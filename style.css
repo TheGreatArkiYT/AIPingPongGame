@@ -1,0 +1,41 @@
+body {
+    background-size: cover;
+    font-family: 'Itim', cursive!important;
+}
+.heading-btn {
+    height: 20px!important;
+    display: inline!important;
+}
+.heading {
+    background-color: transparent!important;
+    margin-top: 0px;
+    padding-bottom: 10px; 
+    border-color: white!important;  
+    width: 100%;
+}
+.instructions {
+    background-color: transparent!important;
+    border-color: yellow!important;
+    font-size: 15px;
+    float: right;
+}
+.spann {
+    margin-top: 0px!important;
+}
+#start {
+    background-color: transparent!important;
+    border-color: #00E5E8;
+}
+.stats {
+    background-color: transparent!important;
+    border-color: #F0F600;
+}
+h4{
+   background-color: transparent!important;
+   color:white;
+   line-height: 2;
+   border-color: #F85E00    !important;
+}
+#restart {
+    background-color: transparent;
+}
